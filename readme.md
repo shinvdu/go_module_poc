@@ -1,6 +1,6 @@
 ## An example to explain how to use go module.
 
-pay attention 2 points:
+pay attention to 2 points:
 
 #### 1. How to import own source package
 
