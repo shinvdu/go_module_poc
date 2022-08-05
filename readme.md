@@ -35,10 +35,11 @@ $: go mod init github.com/shinvdu/go_module_poc
 
 in this example, a package config have two file
 
+```
 config/
 ├── bao.go
 └── config.go
-
+```
 
 after I imported as below
 ```
